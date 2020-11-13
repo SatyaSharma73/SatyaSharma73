@@ -6,7 +6,7 @@
 - 📫 How to reach me: Instagram : @_satyasharma_[ Click Here ](https://www.instagram.com/_satyasharma_/?hl=en),
                        Facebook : Satya Sharma [Click Here](https://www.facebook.com/s4sat/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I Spend almost half day listening Songs
+- ⚡ Fun fact: I spend almost half day Working out and Eating 
 
 
 
