@@ -1,5 +1,8 @@
 ### Namaste , I'm Satya Sharma  👋
 
+[![HitCount](http://hits.dwyl.com/SatyaSharma73/SatyaSharma73.svg)](http://hits.dwyl.com/SatyaSharma73/SatyaSharma73)
+
+
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on OpenSource Projects.
 - 💬 Ask me about Python or Any Tech related Stuffs
