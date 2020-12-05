@@ -5,7 +5,6 @@
 
 
 ![Profile views](https://gpvc.arturio.dev/SatyaSharma73) 
-[![HitCount](http://hits.dwyl.com/SatyaSharma73/SatyaSharma73.svg)](http://hits.dwyl.com/SatyaSharma73/SatyaSharma73)
 
 
 - 🌱 I’m currently learning Java
