@@ -15,4 +15,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost half day Working out and Eating 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SatyaSharma73&show_icons=true)
+
