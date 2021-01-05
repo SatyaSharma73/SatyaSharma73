@@ -7,7 +7,7 @@
 ![Profile views](https://gpvc.arturio.dev/SatyaSharma73) 
 
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on OpenSource Projects.
 - 💬 Ask me about Python or Any Tech related Stuffs
 - 📫 How to reach me: Instagram : @_satyasharma_[ Click Here ](https://www.instagram.com/_satyasharma_/?hl=en),
