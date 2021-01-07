@@ -16,4 +16,15 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost half day Working out and Eating 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SatyaSharma73&show_icons=true)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/-satyasharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="-satyasharma" height="30" width="40" /></a>
+<a href="https://fb.com/s4sat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="s4sat" height="30" width="40" /></a>
+<a href="https://instagram.com/_satyasharma_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_satyasharma_" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyasharma73&show_icons=true&locale=en&layout=compact" alt="satyasharma73" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyasharma73&show_icons=true&locale=en" alt="satyasharma73" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyasharma73&" alt="satyasharma73" /></p>
