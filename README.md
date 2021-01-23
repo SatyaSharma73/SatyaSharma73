@@ -29,7 +29,7 @@
 
 <h3 align="center">Connect with me:</h3>  
 <p align="center">  
-<a href="https://linkedin.com/in/-satyasharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="-satyasharma" height="30" width="40" /></a>  
-<a href="https://fb.com/s4sat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="s4sat" height="30" width="40" /></a>  
-<a href="https://instagram.com/_satyasharma_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_satyasharma_" height="30" width="40" /></a>  
+<a href="https://linkedin.com/in/-satyasharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="-satyasharma" height="60" width="60" /></a>  
+<a href="https://fb.com/s4sat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="s4sat" height="60" width="60" /></a>  
+<a href="https://instagram.com/_satyasharma_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_satyasharma_" height="60" width="60" /></a>  
 </p>
