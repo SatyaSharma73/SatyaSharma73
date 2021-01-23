@@ -26,8 +26,7 @@
 
 <p><img align="left" src="https://media.giphy.com/media/3oEjHBhdFg2pqmsWQ0/giphy.gif" alt="satyasharma73" /></p>
 
-
-<h3 align="center">Connect with me:</h3>  
+  
 <p align="center">  
 <a href="https://linkedin.com/in/-satyasharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="-satyasharma" height="60" width="60" /></a>  
 <a href="https://fb.com/s4sat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="s4sat" height="60" width="60" /></a>  
