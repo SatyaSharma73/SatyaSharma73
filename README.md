@@ -15,7 +15,8 @@
 - 😄 Pronouns: **He/His**
 - ⚡ Fun fact: *I spend almost half day Working out and Eating* 
 
-    
+ ![final_60096733b86fb500cd123c16_383417](https://user-images.githubusercontent.com/71933842/105571705-403b0300-5d78-11eb-9a02-9da05e6d436c.gif)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyasharma73&show_icons=true&locale=en&layout=compact" alt="satyasharma73" /></p>  
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyasharma73&show_icons=true&locale=en" alt="satyasharma73" /></p>  
