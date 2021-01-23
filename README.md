@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satya Sharma</h1>  
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend Developer + Python Developer from India</h3>
 
 <p align="right">
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' height="60" width="60"></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' height="60" width="60"></a> <a href="https://dev.to/satyasharma73"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Satya Sharma's DEV Profile" height="60" width="60"> </a>
@@ -17,7 +17,7 @@
 
  ![final_60096733b86fb500cd123c16_383417](https://user-images.githubusercontent.com/71933842/105571705-403b0300-5d78-11eb-9a02-9da05e6d436c.gif)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyasharma73&show_icons=true&locale=en&layout=compact" alt="satyasharma73" /></p>  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyasharma73&show_icons=true&locale=en&layout=compact" alt="satyasharma73" /></p>  
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyasharma73&show_icons=true&locale=en" alt="satyasharma73" /></p>  
   
