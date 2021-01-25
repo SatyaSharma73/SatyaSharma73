@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer + Python Developer from India</h3>
 
 <p align="right">
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' height="60" width="60"></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' height="60" width="60"></a> <a href="https://dev.to/satyasharma73"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Satya Sharma's DEV Profile" height="60" width="60"> </a>
+<a href="#"><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' height="60" width="60"></a> <a href='#'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' height="60" width="60"></a> <a href="#"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Satya Sharma's DEV Profile" height="60" width="60"> </a>
 </p>
 
 ![Profile views](https://gpvc.arturio.dev/SatyaSharma73) 
