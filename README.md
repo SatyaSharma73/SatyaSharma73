@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://satyasharma73.github.io/satyasharma./">Satya Sharma</a></h1>
-<h3 align="center">A passionate Frontend Developer + Python Developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer + Python Developer from India</h3>
 
 <p align="right">
 <a href="#"><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' height="60" width="60"></a> <a href='#'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' height="60" width="60"></a> <a href="#"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Satya Sharma's DEV Profile" height="60" width="60"> </a>
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ES6**
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
-- 💬 Ask me about **Python or Any Tech related Stuffs**
+- 💬 Ask me about **Python or Web Dev Related Stuffs**
 - 😄 Pronouns: **He/His**
 - ⚡ Fun fact: *I spend almost half day Working out and Eating* 
 
