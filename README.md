@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://satyasharma73.github.io/satyasharma./">Satya Sharma</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://satyasharma73.github.io/sharma/">Satya Sharma</a></h1>
 <h3 align="center">A passionate Full Stack Web Developer + Python Developer from India</h3>
 
 <p align="right">
