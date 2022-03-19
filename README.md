@@ -1,24 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, <a href="https://satyasharma73.github.io/sharma/">Satya Sharma</a></h1>
-<h3 align="center">A passionate Full Stack Web Developer | Python Developer | Cyber Security Enthusiast</h3>
+<h3 align="center">A passionate Full Stack Java Developer | Web Developer | Cyber Security Enthusiast</h3>
 
 <p align="right">
 <a href="#"><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' height="60" width="60"></a> <a href='#'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' height="60" width="60"></a> <a href="#"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Satya Sharma's DEV Profile" height="60" width="60"> </a>
 </p>
-<p align="center">
-<a href="#">
-  <img alt="guilyx | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
-</a>
-<a href="https://www.linkedin.com/in/-satyasharma/">
-  <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
-</a>
-<a href="https://www.facebook.com/s4sat">
-  <img alt="guilyx's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
-</a>
-<a href="https://www.instagram.com/_satyasharma_/">
-  <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
-</a>
 
-</p>
 <p align="center">
 	<a href="#"><img src="https://img.shields.io/github/followers/reddyprasade.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="#"><img src="https://img.shields.io/twitter/follow/ReddyPrasade?label=Twitter&style=social" alt="Twitter"></a>
