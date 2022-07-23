@@ -17,7 +17,7 @@
 
 <hr>
 
-- 🌱 I’m currently learning **ES6**
+- 🌱 I’m currently working as **Full Stack Java Developer.**
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 - 💬 Ask me about **Python or Web Dev Related Stuffs**
 - 😄 Pronouns: **He/His**
