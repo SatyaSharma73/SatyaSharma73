@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, <a href="https://satyasharma73.github.io/sharma/">Satya Sharma</a></h1>
-<h3 align="center">A passionate Full Stack Java Developer | Web Developer | Cyber Security Enthusiast</h3>
+<h3 align="center">A passionate Full Stack Java Developer </h3>
 
 <p align="right">
 <a href="#"><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' height="60" width="60"></a> <a href='#'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' height="60" width="60"></a> <a href="#"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Satya Sharma's DEV Profile" height="60" width="60"> </a>
